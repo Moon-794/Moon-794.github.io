@@ -10,9 +10,24 @@ html
     background-color: black;
 }
 
+div
+{
+    display: flex;
+    align-items: center;
+}
+
 label
 {
     color: red;
+}
+
+form
+{
+}
+
+p
+{
+    color:red;
 }
 
 #header
