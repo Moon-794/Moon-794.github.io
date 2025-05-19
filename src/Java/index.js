@@ -10,7 +10,7 @@ function clickSubmit()
 
     if(usr === "bigred" && password === "birthday")
     {
-        window.location.replace("spud-waz-here.com/yay.html");
+        window.location.replace("https://spud-waz-here.com/yay.html");
     }
     else
     {
